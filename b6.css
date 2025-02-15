@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+boyy{
+    background-color: gray;
+}
+
+.class{
+    background-color: gray;
+    margin: 20px;
+    width: 500px;
+    height: 70px;
+    justify-self: center;
+}
+
+.content{
+    width: 500px;
+    height: 50px;
+    line-height: 70px;
+    border-radius: 40px;
+}
+
+.s{
+   left: 10%;
+}
