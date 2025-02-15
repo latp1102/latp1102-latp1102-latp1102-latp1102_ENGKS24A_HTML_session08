@@ -1,0 +1,41 @@
+*{
+    padding: auto;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.a{
+    justify-self: center;
+}
+
+.text{
+    background-color: orange;
+    width: 200px;
+    height: 5px;
+}
+
+.class{
+    margin: 100px;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
+    border: 1px solid #E6E6E6;
+}
+
+.tym{
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+.icon{
+    color: #F56A6A;
+    transform: rotate(-45deg);
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 60px;
+    height: 40px;
+}
+
+.p{
+    color: #969EA3;
+}
